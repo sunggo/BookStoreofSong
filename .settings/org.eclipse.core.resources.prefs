@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/bookstore/bean/Cart.java=UTF-8
+encoding//src/com/bookstore/bean/Item.java=UTF-8
+encoding//src/com/bookstore/bean/Order.java=UTF-8
+encoding//src/com/bookstore/dao/ItemMapper.java=UTF-8
+encoding//src/com/bookstore/dao/UserMapper.java=UTF-8
